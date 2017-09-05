@@ -1,3 +1,4 @@
+#在爬虫示例网站http://example.webscraping.com/ 中，用爬虫爬取该网站上所有国家的链接（url）
 #-*-coding:utf-8-*-
 import re, urllib2
 
