@@ -1,4 +1,3 @@
 # WebCrawler
-自己写的一些爬虫例子
-
-爬链接、爬资源、爬图片、、无所不爬。
+没事写写的python，持续更新  
+![image]{https://github.com/xiepl1997/WebCrawler/blob/master/images/pic1.jpg}
